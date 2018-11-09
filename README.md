@@ -1,2 +1,2 @@
 # --LeetCodePie
-My own 领扣 solution records
+records of My own 领扣 solutions 
